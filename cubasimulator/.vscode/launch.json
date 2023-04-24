@@ -1,0 +1,35 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch NetworkTopologyGenerator",
+            "request": "launch",
+            "mainClass": "org.renaultleat.network.NetworkTopologyGenerator",
+            "projectName": "distributed_ledger_simulator_framework_consensus_testbench"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch NodeKeyGenerator",
+            "request": "launch",
+            "mainClass": "org.renaultleat.crypto.NodeKeyGenerator",
+            "projectName": "distributed_ledger_simulator_framework_consensus_testbench"
+        },
+        {
+            "type": "java",
+            "name": "Launch SimulatorServiceDev",
+            "request": "launch",
+            "mainClass": "org.renaultleat.dev.SimulatorServiceDev",
+            "projectName": "distributed_ledger_simulator_framework_consensus_testbench"
+        }
+    ]
+}
