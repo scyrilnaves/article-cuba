@@ -4,7 +4,7 @@ We propose a consortium-based distributed ledger (Blockchain) consensus algorith
 
 # Folder Organization:
 ## Cuba Result Visualizer
-1. Implmenetation of  Result Statistics Dashboard for CUBA Simulation
+1. Implementation of  Result Statistics Dashboard for CUBA Simulation
 ## Cuba Simulator
 2. Implementation of Blockchain simulator containing networking, tranasaction, consensus, cryptography as well as Contesting Utilitarian Byzantine Agreemnt Protocol.
 ## Cuba Cloud Deploy
